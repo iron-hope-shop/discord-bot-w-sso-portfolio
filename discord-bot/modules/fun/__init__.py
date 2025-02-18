@@ -1,0 +1,1 @@
+from .fun_player import fetch_player_stats

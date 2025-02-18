@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Discord Bot Authentication</title>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
+</head>
+
+<body>
+    <h1>Authenticating...</h1>
+    <script>
+        // Your web app's Firebase configuration
+        const firebaseConfig = {
+            // TODO add your firebase project configuration (it's a JSON)
+        };
+
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+
+        firebase.auth().signInWithPopup(new firebase.auth.GoogleAuthProvider()).then(function (result) {
+            result.user.getIdToken().then(function (idToken) {
+                // Get the state from the URL
+                const urlParams = new URLSearchParams(window.location.search);
+                const state = urlParams.get('state');
+                // Redirect to your bot's callback URL with the ID token and state
+                // TODO update with your callback URL
+                window.location.href = `https://discord-bot-3ecmyuohwa-uc.a.run.app/auth_callback?id_token=${idToken}&state=${state}`; 
+            });
+        }).catch(function (error) {
+            console.error('Error during authentication', error);
+        });
+    </script>
+</body>
+
+</html>

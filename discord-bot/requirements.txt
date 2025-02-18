@@ -1,0 +1,10 @@
+discord
+numpy
+matplotlib
+pandas
+requests
+feedparser
+flask
+google-cloud-storage
+firebase-admin
+aiohttp

@@ -1,0 +1,724 @@
+{
+  "questions": [
+    {
+      "question": "What is the highest level achievable in a single skill?",
+      "answer": "99",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "Which boss drops the Bandos chestplate?",
+      "answer": "General Graardor",
+      "difficulty": "Medium",
+      "category": "Bosses"
+    },
+    {
+      "question": "What year was RuneScape first released?",
+      "answer": "2001",
+      "difficulty": "Medium",
+      "category": "History"
+    },
+    {
+      "question": "What is the name of the desert city where you start the Desert Treasure quest?",
+      "answer": "Bedabin Camp",
+      "difficulty": "Hard",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the primary ingredient used in making Strength potions?",
+      "answer": "Limpwurt root",
+      "difficulty": "Easy",
+      "category": "Herblore"
+    },
+    {
+      "question": "Which skill allows you to create runes?",
+      "answer": "Runecrafting",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "Which NPC runs the Grand Exchange?",
+      "answer": "Brugsen Bursen",
+      "difficulty": "Hard",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the highest tier of clue scroll?",
+      "answer": "Master",
+      "difficulty": "Medium",
+      "category": "Activities"
+    },
+    {
+      "question": "Which skill allows you to create pottery items?",
+      "answer": "Crafting",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the currency used in the Nightmare Zone?",
+      "answer": "Nightmare Zone points",
+      "difficulty": "Medium",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which quest is required to wear dragon gloves?",
+      "answer": "Recipe for Disaster",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the highest-level tree you can cut in OSRS?",
+      "answer": "Redwood",
+      "difficulty": "Easy",
+      "category": "Woodcutting"
+    },
+    {
+      "question": "Which skill is used to create potions?",
+      "answer": "Herblore",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the dragon that resides on Crandor Island?",
+      "answer": "Elvarg",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "Which city is home to the Fishing Guild?",
+      "answer": "Catherby",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the minimum Combat level required to enter the Warriors' Guild?",
+      "answer": "130 combined Attack and Strength levels",
+      "difficulty": "Hard",
+      "category": "Combat"
+    },
+    {
+      "question": "Which skill allows you to create jewelry?",
+      "answer": "Crafting",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the minigame where players fight waves of TzHaar creatures?",
+      "answer": "TzHaar Fight Cave",
+      "difficulty": "Medium",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which NPC can assign Slayer tasks to high-level players in Prifddinas?",
+      "answer": "Konar quo Maten",
+      "difficulty": "Hard",
+      "category": "Slayer"
+    },
+    {
+      "question": "What is the name of the continent where the Zeah landmass is located?",
+      "answer": "Great Kourend",
+      "difficulty": "Medium",
+      "category": "Geography"
+    },
+    {
+      "question": "Which skill is used to create planks from logs?",
+      "answer": "Construction",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the strongest crossbow in OSRS?",
+      "answer": "Zaros Crossbow",
+      "difficulty": "Medium",
+      "category": "Weapons"
+    },
+    {
+      "question": "Which quest rewards the player with the ability to use the Spirit Trees for transportation?",
+      "answer": "Tree Gnome Village",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the passage that leads to the elven lands?",
+      "answer": "Underground Pass",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "Which skill allows you to catch implings?",
+      "answer": "Hunter",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the boss found in the God Wars Dungeon that drops Armadyl armor?",
+      "answer": "Kree'arra",
+      "difficulty": "Hard",
+      "category": "Bosses"
+    },
+    {
+      "question": "Which city is home to the Agility pyramid?",
+      "answer": "Sophanem",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the name of the island where players can train Farming and Hunter?",
+      "answer": "Fossil Island",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "Which skill is required to create Barrows armor sets?",
+      "answer": "Smithing",
+      "difficulty": "Hard",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the currency used in the Mahogany Homes minigame?",
+      "answer": "Carpenter's points",
+      "difficulty": "Medium",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which skill allows you to create divine potions?",
+      "answer": "Herblore",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the newest skill added to Old School RuneScape?",
+      "answer": "None (No new skills have been added since OSRS launch)",
+      "difficulty": "Hard",
+      "category": "Game Knowledge"
+    },
+    {
+      "question": "Which quest rewards the player with the ability to wear the Helm of Neitiznot?",
+      "answer": "The Fremennik Isles",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the giant mole boss found in Falador Park?",
+      "answer": "Giant Mole",
+      "difficulty": "Easy",
+      "category": "Bosses"
+    },
+    {
+      "question": "Which city is home to the Farming Guild?",
+      "answer": "Hosidius",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the highest tier of achievement diary?",
+      "answer": "Elite",
+      "difficulty": "Easy",
+      "category": "Achievement Diaries"
+    },
+    {
+      "question": "Which NPC can enchant onyx jewelry?",
+      "answer": "Any NPC who can enchant jewelry",
+      "difficulty": "Hard",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the name of the special attack of the Dragon Claws?",
+      "answer": "Slice and Dice",
+      "difficulty": "Medium",
+      "category": "Weapons"
+    },
+    {
+      "question": "Which skill is used to create Battlestaves?",
+      "answer": "Crafting",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the crystal tree boss in Prifddinas?",
+      "answer": "Zalcano",
+      "difficulty": "Medium",
+      "category": "Bosses"
+    },
+    {
+      "question": "Which quest is required to access the Morytania region?",
+      "answer": "Priest in Peril",
+      "difficulty": "Easy",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the minigame where players defend Void Knight outposts?",
+      "answer": "Pest Control",
+      "difficulty": "Easy",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which skill allows you to create Superior Garden hotspots in your Player-Owned House?",
+      "answer": "Construction",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the staff that can autocast Crumble Undead?",
+      "answer": "Slayer's staff",
+      "difficulty": "Medium",
+      "category": "Weapons"
+    },
+    {
+      "question": "Which city is home to the Rogues' Den?",
+      "answer": "Burthorpe",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the maximum number of players that can participate in a single Chambers of Xeric raid?",
+      "answer": "100",
+      "difficulty": "Hard",
+      "category": "Raids"
+    },
+    {
+      "question": "Which skill is required to defeat the Wintertodt?",
+      "answer": "Firemaking",
+      "difficulty": "Easy",
+      "category": "Bosses"
+    },
+    {
+      "question": "What is the name of the quest that unlocks the ability to craft blood runes?",
+      "answer": "Sins of the Father",
+      "difficulty": "Hard",
+      "category": "Quests"
+    },
+    {
+      "question": "Which fairy ring code takes you to Zanaris?",
+      "answer": "CKS",
+      "difficulty": "Medium",
+      "category": "Transportation"
+    },
+    {
+      "question": "What is the name of the Dragon Slayer II boss that drops the Dragonfire Ward?",
+      "answer": "Vorkath",
+      "difficulty": "Medium",
+      "category": "Bosses"
+    },
+    {
+      "question": "Which skill allows you to pickpocket HAM members?",
+      "answer": "Thieving",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the highest tier of Slayer Master?",
+      "answer": "Duradel",
+      "difficulty": "Medium",
+      "category": "Slayer"
+    },
+    {
+      "question": "Which quest rewards the player with access to the Lunar spellbook?",
+      "answer": "Lunar Diplomacy",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the special attack of the Abyssal Whip?",
+      "answer": "Energy Drain",
+      "difficulty": "Medium",
+      "category": "Weapons"
+    },
+    {
+      "question": "Which city is home to the Warriors' Guild?",
+      "answer": "Burthorpe",
+      "difficulty": "Easy",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the name of the pet dropped by the Corporeal Beast?",
+      "answer": "Pet dark core",
+      "difficulty": "Hard",
+      "category": "Pets"
+    },
+    {
+      "question": "Which skill is required to create Overload potions in the Chambers of Xeric?",
+      "answer": "Herblore",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the island where players can find the Volcanic Mine?",
+      "answer": "Fossil Island",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "Which NPC runs the Fishing Trawler minigame?",
+      "answer": "Murphy",
+      "difficulty": "Hard",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the highest possible total level in Old School RuneScape?",
+      "answer": "2277",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the most powerful god sword in OSRS?",
+      "answer": "Blade of Saeldor (charged)",
+      "difficulty": "Medium",
+      "category": "Weapons"
+    },
+    {
+      "question": "Which quest is required to access the Myths' Guild?",
+      "answer": "Dragon Slayer II",
+      "difficulty": "Hard",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the highest level Wilderness area?",
+      "answer": "56",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "Which skill allows you to create teleport tablets?",
+      "answer": "Magic",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the minigame where players can train Agility and Magic simultaneously?",
+      "answer": "Mage Training Arena",
+      "difficulty": "Medium",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which NPC sells the Rune pouch?",
+      "answer": "Krystilia",
+      "difficulty": "Hard",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the maximum number of players allowed on a world?",
+      "answer": "2000",
+      "difficulty": "Medium",
+      "category": "Game Mechanics"
+    },
+    {
+      "question": "Which quest unlocks the ability to craft cosmic runes?",
+      "answer": "Lost City",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the highest tier of Clue Scroll?",
+      "answer": "Master",
+      "difficulty": "Easy",
+      "category": "Activities"
+    },
+    {
+      "question": "Which boss drops the Dragon Warhammer?",
+      "answer": "Lizardman Shaman",
+      "difficulty": "Medium",
+      "category": "Bosses"
+    },
+    {
+      "question": "What is the required Runecraft level to craft blood runes?",
+      "answer": "77",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "Which city is home to the Duel Arena?",
+      "answer": "Al Kharid",
+      "difficulty": "Easy",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the name of the currency used in the Last Man Standing minigame?",
+      "answer": "LMS points",
+      "difficulty": "Medium",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which quest rewards the player with access to Prifddinas?",
+      "answer": "Song of the Elves",
+      "difficulty": "Hard",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the dragon encountered during Dragon Slayer II?",
+      "answer": "Galvek",
+      "difficulty": "Hard",
+      "category": "Quests"
+    },
+    {
+      "question": "Which skill allows you to create anti-venom potions?",
+      "answer": "Herblore",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the minigame where players can train Firemaking?",
+      "answer": "Wintertodt",
+      "difficulty": "Easy",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which NPC runs the Achievement Diary?",
+      "answer": "Jarr",
+      "difficulty": "Hard",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the maximum number of players that can participate in a single Theatre of Blood raid?",
+      "answer": "5",
+      "difficulty": "Medium",
+      "category": "Raids"
+    },
+    {
+      "question": "What is the name of the highest tier of gloves obtainable from the Culinaromancer's Chest?",
+      "answer": "Barrows gloves",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "Which tree gives the highest Woodcutting experience per log?",
+      "answer": "Redwood",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the crystal bow obtained from the Roving Elves quest?",
+      "answer": "Crystal bow",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "Which boss drops the Twisted bow?",
+      "answer": "Great Olm",
+      "difficulty": "Hard",
+      "category": "Bosses"
+    },
+    {
+      "question": "What is the required Fishing level to catch anglerfish?",
+      "answer": "82",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "Which city is home to the Blast Furnace?",
+      "answer": "Keldagrim",
+      "difficulty": "Medium",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the name of the currency used in the Trouble Brewing minigame?",
+      "answer": "Pieces of eight",
+      "difficulty": "Hard",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which quest rewards the player with the ability to craft cosmic runes?",
+      "answer": "Lost City",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the special attack of the Dragon dagger?",
+      "answer": "Puncture",
+      "difficulty": "Easy",
+      "category": "Weapons"
+    },
+    {
+      "question": "Which skill allows you to create stamina potions?",
+      "answer": "Herblore",
+      "difficulty": "Easy",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the highest tier of achievement diary?",
+      "answer": "Elite",
+      "difficulty": "Easy",
+      "category": "Achievement Diaries"
+    },
+    {
+      "question": "Which NPC sells their accumulator?",
+      "answer": "Ava",
+      "difficulty": "Medium",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the required Crafting level to create a fury amulet?",
+      "answer": "90",
+      "difficulty": "Hard",
+      "category": "Skills"
+    },
+    {
+      "question": "Which quest unlocks the ability to use the Ancients spellbook?",
+      "answer": "Desert Treasure",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the boss fought during the Regicide quest?",
+      "answer": "Tyras guard",
+      "difficulty": "Hard",
+      "category": "Quests"
+    },
+    {
+      "question": "Which skill allows you to create Superior slayer monsters?",
+      "answer": "Slayer",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the minigame where players can train Thieving and Agility?",
+      "answer": "Pyramid Plunder",
+      "difficulty": "Medium",
+      "category": "Minigames"
+    },
+    {
+      "question": "Which city is home to the Ranging Guild?",
+      "answer": "Seers' Village",
+      "difficulty": "Easy",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the name of the highest tier of metal armor in OSRS?",
+      "answer": "Rune",
+      "difficulty": "Easy",
+      "category": "Equipment"
+    },
+    {
+      "question": "Which boss drops the Primordial crystal?",
+      "answer": "Cerberus",
+      "difficulty": "Medium",
+      "category": "Bosses"
+    },
+    {
+      "question": "What is the required Farming level to plant a spirit tree?",
+      "answer": "83",
+      "difficulty": "Hard",
+      "category": "Skills"
+    },
+    {
+      "question": "Which quest rewards the player with access to the Kourend Catacombs?",
+      "answer": "Client of Kourend",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "What is the name of the currency used in the Motherlode Mine?",
+      "answer": "Golden nuggets",
+      "difficulty": "Easy",
+      "category": "Mining"
+    },
+    {
+      "question": "Which NPC runs the Sorceress's Garden minigame?",
+      "answer": "Osman",
+      "difficulty": "Hard",
+      "category": "NPCs"
+    },
+    {
+      "question": "What is the maximum hit points of the Corporeal Beast?",
+      "answer": "2000",
+      "difficulty": "Hard",
+      "category": "Bosses"
+    },
+    {
+      "question": "Which skill allows you to create Godsword blades?",
+      "answer": "Smithing",
+      "difficulty": "Medium",
+      "category": "Skills"
+    },
+    {
+      "question": "What is the name of the quest that unlocks the ability to kill Zulrah?",
+      "answer": "Regicide",
+      "difficulty": "Medium",
+      "category": "Quests"
+    },
+    {
+      "question": "Which city is home to the Cooks' Guild?",
+      "answer": "Varrock",
+      "difficulty": "Easy",
+      "category": "Locations"
+    },
+    {
+      "question": "What is the name of the highest tier of Prayer book in OSRS?",
+      "answer": "Holy book",
+      "difficulty": "Medium",
+      "category": "Equipment"
+    },
+    {
+      "question": "What does 'AGS' stand for in PvP terms?",
+      "answer": "Armadyl Godsword",
+      "difficulty": "Easy",
+      "category": "PvP"
+    },
+    {
+      "question": "What is the term for quickly switching between multiple weapons to perform special attacks?",
+      "answer": "Spec switching",
+      "difficulty": "Medium",
+      "category": "PvP"
+    },
+    {
+      "question": "True or False: The Armadyl Godsword has a special attack that consumes 50% of the special attack bar.",
+      "answer": "True",
+      "difficulty": "Medium",
+      "category": "PvP"
+    },
+    {
+      "question": "True or False: Vorkath is immune to venom.",
+      "answer": "True",
+      "difficulty": "Medium",
+      "category": "Bossing"
+    },
+    {
+      "question": "True or False: The Granite maul's special attack can be used instantly after another weapon's attack.",
+      "answer": "True",
+      "difficulty": "Easy",
+      "category": "PvP"
+    },
+    {
+      "question": "True or False: The Corporeal Beast takes full damage from ranged attacks.",
+      "answer": "False",
+      "difficulty": "Medium",
+      "category": "Bossing"
+    },
+    {
+      "question": "True or False: The Toxic blowpipe is allowed in deadman mode.",
+      "answer": "False",
+      "difficulty": "Medium",
+      "category": "PvP"
+    },
+    {
+      "question": "True or False: Zulrah changes its attack style and color randomly.",
+      "answer": "False",
+      "difficulty": "Hard",
+      "category": "Bossing"
+    },
+    {
+      "question": "Turael is the lowest-level Slayer master.",
+      "answer": "true",
+      "difficulty": "Easy",
+      "category": "Slayer"
+    },
+    {
+      "question": "The Nightmare boss is located in Morytania.",
+      "answer": "True",
+      "difficulty": "Medium",
+      "category": "Bosses"
+    },
+    {
+      "question": "Superior Slayer monsters have a 100% drop rate for unique items.",
+      "answer": "False",
+      "difficulty": "Medium",
+      "category": "Slayer"
+    },
+    {
+      "question": "The Chambers of Xeric is a solo-only raid.",
+      "answer": "False",
+      "difficulty": "Easy",
+      "category": "Bosses"
+    }
+  ]
+}
