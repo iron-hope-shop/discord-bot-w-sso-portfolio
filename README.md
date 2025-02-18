@@ -106,30 +106,6 @@ Here is an example of logging in:
 
 ---
 
-## Project Structure
-
-```
-/discord-bot
-│
-├── bot.py                  # Main Discord bot logic and command handlers
-├── fun_player.py           # Fetching player stats for RuneScape
-├── stonks_utils.py         # Stock simulation and chart utilities
-├── ui_components.py        # Reusable Discord UI components (Paginator, RSSPaginator)
-├── config/                 # Configuration files and constants
-│
-├── cloudbuild.yaml         # Build and deploy configuration for Google Cloud Build/Run
-├── policy.yaml             # IAM policy configuration for Cloud Run invoker role
-│
-├── public/                 # Web assets for Firebase Hosting
-│   ├── index.html          # Firebase auth web app for SSO
-│   └── 404.html            # Custom 404 error page
-│
-├── firebase.json           # Firebase Hosting configuration
-└── README.md               # This README file
-```
-
----
-
 ## Firebase SSO
 
 The authentication flow leverages Firebase's authentication system to allow users (including those authenticated via GitHub if configured) to sign in. The hosted `index.html` handles sign-in with Firebase (using the GoogleAuthProvider by default) and then redirects back to the bot's authentication callback URL on Cloud Run.
